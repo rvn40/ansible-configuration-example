@@ -1,2 +1,2 @@
 # ansible-initial
-Initial configuration file of ansible. ansible version 2.10
+Template of initial configuration file of ansible version 2.10. Model version 1.
